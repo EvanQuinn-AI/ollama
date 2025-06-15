@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Tell me a joke",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tell me a joke"
+      },
+      {
+        "role": "assistant",
+        "content": "Sure, here's a classic one:\n\nWhy was the math book sad?\n\nBecause it had too many problems!\n\nI hope you found that amusing! If you need another joke or any other kind of information, feel free to ask!",
+        "formatted": true
+      }
+    ],
+    "timestamp": "2025-06-16 00:30",
+    "model": "qwen2:7b"
+  }
+]
